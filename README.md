@@ -23,9 +23,6 @@ A small social job platform built with React.js that includes features like user
 - [Running the Frontend](#running-the-frontend)
 - [Running the Backend](#running-the-backend)
 - [Building the App](#building-the-app)
-- [Environment Variables](#environment-variables)
-- [Troubleshooting](#troubleshooting)
-- [License](#license)
 - [Conclusion](#conclusion)
 
 ---
