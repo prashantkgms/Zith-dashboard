@@ -53,42 +53,44 @@ cd social-job-platform
 ## **Install Dependencies**
 Once you’ve cloned the repository, navigate to the project directory and install the necessary dependencies for both the frontend and the backend.
 
-Frontend Setup:
+## Frontend Setup:
 Navigate to the frontend directory:
 
 cd Zith-dashboard
 
-Now Install the frontend dependencies using npm:
+## Now Install the frontend dependencies using npm:
 
 npm install
 
-Backend Setup (JSON Server):
+## Backend Setup (JSON Server):
 
 Navigate to the root directory where the db.json file is located:
 
 npm install json-server --save-dev
 
-Running the Backend (JSON Server)
+## Running the Backend (JSON Server)
 In order to simulate the backend, you need to run JSON Server.
 
 Navigate to the root directory where your db.json is located.
 
-Run JSON Server on port 5000:
+## Run JSON Server on port 5000:
 
 npx json-server --watch db.json --port 5000
 
+---
 
-Building the App
+## **Building the App**
 To create a production build of the React application:
 
 Navigate to the Zith-dashboard directory (if you're not already there):
 
 cd Zith-dashboard
 
-Run the build command:
+## **Run the build command:**
 
 npm run build
 
-Conclusion
+---
 
+## **Conclusion**
 With the backend set up using JSON Server and the frontend using React.js, you now have a fully functioning small social job platform. Enjoy using the app, and feel free to modify it to fit your needs!
