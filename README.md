@@ -44,7 +44,6 @@ Before you begin, make sure you have the following installed:
 
 Clone the repository to your local machine using Git:
 
-```bash
 git clone https://github.com/yourusername/social-job-platform.git
 cd social-job-platform
 
