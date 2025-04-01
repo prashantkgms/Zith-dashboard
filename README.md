@@ -1,10 +1,10 @@
-# Social Job Platform (React.js + JSON Server)
+# Zith-Dashboard (React.js + JSON Server)
 
 A small social job platform built with React.js that includes features like user authentication (login/logout), profile management, job posts, a dashboard with charts, and more. The backend is simulated using **JSON Server** for development purposes.
 
 ## Features:
 - **Profile Management**: Users can log in, view their profiles, and log out.
-- **Job Posts**: Users can view and post jobs.
+- **Posts**: Users can view and post jobs.
 - **Dashboard**: A simple dashboard with charts to visualize job data.
 - **Authentication**: Basic login/logout flow.
 
@@ -42,7 +42,7 @@ Before you begin, make sure you have the following installed:
 Clone the repository to your local machine using Git:
 
 git clone https://github.com/yourusername/social-job-platform.git
-cd social-job-platform
+cd Zith-dashboard
 
 ---
 
