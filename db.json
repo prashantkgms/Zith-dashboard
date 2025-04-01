@@ -1,0 +1,62 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Java Developer",
+      "content": "Content of Post 1",
+      "author": "Rohit"
+    },
+    {
+      "id": 2,
+      "title": "React Developer",
+      "content": "Content of Post 2",
+      "author": "Rohit"
+    },
+    {
+      "id": 3,
+      "title": "Python Developer",
+      "content": "Content of Post 3",
+      "author": "Ramesh"
+    },
+    {
+      "id": 4,
+      "title": "UI/UX Engineer",
+      "content": "Content of Post 4",
+      "author": "Suresh"
+    },
+    {
+      "id": 5,
+      "title": "Product manager",
+      "content": "Content of Post 5",
+      "author": "Aniket"
+    },
+    {
+      "id": 6,
+      "title": "Web Developer",
+      "content": "Content of Post 6",
+      "author": "Rohit"
+    },
+    {
+      "id": 7,
+      "title": "Data Analyst",
+      "content": "Content of Post 7",
+      "author": "Ramesh"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "user": "Test user",
+      "email": "test@example.com",
+      "password": "password123",
+      "token": "ASKDasdasDASdasdasdakjaisdjASOD"
+    },
+    {
+      "id": 2,
+      "user": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "password": "password456",
+      "token": "IUASIDaskdakdadjauASD(*&^D*A%SD"
+    }
+  ]
+}
