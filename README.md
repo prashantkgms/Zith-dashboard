@@ -51,7 +51,7 @@ cd social-job-platform
 ---
 
 
-## Install Dependencies
+## **Install Dependencies**
 Once you’ve cloned the repository, navigate to the project directory and install the necessary dependencies for both the frontend and the backend.
 
 Frontend Setup:
